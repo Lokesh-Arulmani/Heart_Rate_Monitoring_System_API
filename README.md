@@ -31,9 +31,8 @@ This is a backend application built using Spring Boot to manage users, patients,
    mvn spring-boot:run
 
 
----
 
-#### **API Documentation**
+#### API Documentation
 
 ```markdown
 ### API Endpoints
