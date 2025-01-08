@@ -42,8 +42,9 @@ This is a backend application built using Spring Boot to manage users, patients,
   - Request body:
     ```json
     {
+      "name": "user",
       "email": "user@example.com",
-      "password": "password123"
+      "password": "password456"
     }
     ```
   - Response:
@@ -59,7 +60,7 @@ This is a backend application built using Spring Boot to manage users, patients,
     ```json
     {
       "email": "user@example.com",
-      "password": "password123"
+      "password": "password456"
     }
     ```
   - Response:
