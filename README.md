@@ -34,7 +34,6 @@ This is a backend application built using Spring Boot to manage users, patients,
 
 #### API Documentation
 
-```markdown
 ### API Endpoints
 
 #### 1. User Registration and Login
