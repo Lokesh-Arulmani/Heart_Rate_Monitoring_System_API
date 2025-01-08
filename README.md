@@ -157,7 +157,6 @@ This is a backend application built using Spring Boot to manage users, patients,
 
 #### **Assumptions and Decisions**
 
-```markdown
 - The application does not use authentication protocols like JWT or OAuth for simplicity. Email and password validation is used for registration and login.
 - Heart rate data is stored as a simple string, but it can be extended to a more complex structure (e.g., JSON or time-series data).
 - A patient can have multiple heart rate records.
